@@ -32,13 +32,13 @@
 
 ![校准截图](https://image.lceda.cn/oshwhub/pullImage/2b80688fecf5411ea8ca110851d6c0ca.png)
 
+62.5MHz 方波输入测试：
+
+![QQ截图20250209165252.jpg](https://image.lceda.cn/oshwhub/pullImage/34a96b95e22c4ee1b5debf41b898cfae.jpg)
+
 50MHz 正弦波输入测试：
 
 ![50MHz正弦波输入测试](https://image.lceda.cn/oshwhub/pullImage/a5cb5f6080d847f6ac6253db9d59dde5.png)
-
-5MHz 方波输入测试：
-
-![方波输入测试](https://image.lceda.cn/oshwhub/pullImage/dd0323e8d4c540e383031ebf70f871f9.png)
 
 # References
 
