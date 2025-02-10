@@ -1,6 +1,6 @@
 # LMH7324_LA_Probe
 
-使用 KiCad 进行设计的，基于 LMH7324 的 RIGOL PLA2216 逻分探头替代，在 DHO924S 上、50MHz 输入频率下实测可用。
+使用 KiCad 进行设计的，基于 LMH7324 的 RIGOL PLA2216 逻分探头替代，在 DHO924S 上、62.5MHz 输入频率下实测可用。
 
 ![QQ图片20250116134415.jpg](https://image.lceda.cn/oshwhub/pullImage/65cffde63fc74316a18637dd5d69f0bd.jpg)
 
@@ -8,7 +8,7 @@
 
 1. 请依据开源工程 [MSO5000/DHO900 逻辑探头](https://oshwhub.com/zoomf1/pla2216) 中的 "转接板新版本" 打样出转接板，并购买连接器；
 2. 依据本工程中的 Gerber 文件打样出探头板，请勿直接使用立创 EDA 进行导出，以免出现意外的错误（即使打 1.6mm 板厚也可以大力出奇迹焊上 1.27mm 的 IDC 连接器）；
-3. 购买元器件，LMH7324 约 80RMB / 片；
+3. 购买元器件，LMH7324 在立创商城上约 80RMB / 片；
 4. 进行焊接装配。
 
 # 主要 BOM 清单
