@@ -1,5 +1,6 @@
-Gerber_adapter_2024-12-28：
-Modified from source https://oshwhub.com/zoomf1/pla2216 ,version "转接板新版本"
+The Gerber_adapter_2024-12-28 file under this directory is a modified version of the target file based on https://oshwhub.com/zoomf1/pla2216, and does not include the corresponding source code. Since the original editable design file cannot be obtained, this distribution does not fully meet the source code provision requirements of GPL 3.0 and is only provided as a practical reference for ease of fabricating.
+
+本目录下的 Gerber_adapter_2024-12-28 是基于 https://oshwhub.com/zoomf1/pla2216 的修改版目标文件，不包含对应源代码。由于无法获取原可编辑设计文件，此分发不完全满足 GPL 3.0 的源代码提供要求，仅作为便于打样的实际参考。
 
 License: GPL-3.0
 
